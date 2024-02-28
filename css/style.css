@@ -16,7 +16,7 @@
 body{
     margin: 0;
     padding: 0;
-    background:rgb(13,106,134);
+    background-image: linear-gradient(to right, #323050,#45214A);
     font-family: 'Open sans', sans-serif;
     font-size: 1.3em;
     line-height: 1.5em;
@@ -48,7 +48,7 @@ form input:focus{
 
 form button{
     border: none;
-    background: var(--primary-color);
+    background: rgb(180, 18, 180);
     color: #fff;
     font-size: 18px;
     font-weight: 700;
